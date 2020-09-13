@@ -61,7 +61,7 @@ class UI {
     <!-- End of single product -->
     `;
     });
-    console.log(products);
+    productsDOM.innerHTML = result;
   }
 }
 
