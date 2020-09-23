@@ -90,7 +90,9 @@ class UI {
           // display cart item
           this.addCartItem(cartItem);
           // show the cart
-          this.showCart();
+          this.showCart(
+            
+          );
         });
       }
     });
